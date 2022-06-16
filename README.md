@@ -17,9 +17,6 @@ Turn on the Program/Configure option for the added file.
 Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
  ![image4](https://user-images.githubusercontent.com/94219582/174122146-3603420d-635e-4296-b7f6-41a19ab3bbc9.png)
 ## OUTPUT:
-![WhatsApp Image 2022-06-16 at 10 09 37 PM](https://user-images.githubusercontent.com/94219582/174123065-f3dc5a9a-504d-44ec-a677-a8322b40ec80.jpeg)
-
-
 ![output](https://user-images.githubusercontent.com/94219582/174122302-fb0f7d02-8bf8-482f-ac28-f5c0b003558f.jpg)
 
 ### RESULTS 
