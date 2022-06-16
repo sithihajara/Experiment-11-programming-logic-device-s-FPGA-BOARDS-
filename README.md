@@ -1,10 +1,12 @@
 # Experiment-11-programming-logic-device-s-FPGA-BOARDS-
- ### AIM: To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
+ ### AIM:
+ To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
+Field Programmable Gate Arrays (FPGAs) are semiconductor devices that are based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.
 
-### Procedure 
+## Procedure 
 Start the Quartus II Programmer.
 ![image1](https://user-images.githubusercontent.com/94219582/174122016-39d1f331-3879-4947-8be2-83a5764baad6.png)
 
